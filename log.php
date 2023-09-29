@@ -172,7 +172,7 @@ include 'config/db.php';
             <footer class="footer">
                 <div class="container">
                     <div class="copyright ml-auto">
-                        &copy; <?php echo date('Y');?> Absensi Siswa.<a href="index.php">Elfita Diana </a> | 2515048
+                        &copy; <?php echo date('Y');?>GERAKAN DISIPLIN SISWA <a href="index.php"> </a> 
                     </div>
                 </div>
             </footer>
@@ -181,23 +181,23 @@ include 'config/db.php';
 
 
 
-        <!--   Core JS Files   -->
+        
         <script src="assets/js/core/jquery.3.2.1.min.js"></script>
         <script src="assets/js/core/popper.min.js"></script>
         <script src="assets/js/core/bootstrap.min.js"></script>
 
-        <!-- jQuery UI -->
+        
         <script src="assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
         <script src="assets/js/plugin/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js"></script>
 
-        <!-- jQuery Scrollbar -->
+       
         <script src="assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"></script>
 
 
-        <!-- Sweet Alert -->
+       
         <script src="assets/js/plugin/sweetalert/sweetalert.min.js"></script>
 
-        <!-- Atlantis JS -->
+       
         <script src="assets/js/atlantis.min.js"></script>
 
 
